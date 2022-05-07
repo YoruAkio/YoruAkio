@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @YoruAkioXX
+- 👀 I’m interested in JavaScript on NodeJS, Python, C++
+- 🌱 I’m currently learning Everything
+- 📫 How to reach me YoruAkio#9999 at discord
