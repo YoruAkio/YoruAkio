@@ -18,7 +18,7 @@
   </tr>
 </table>
 <br>
-## 🧑‍💻Languages & tools
+<h2>🧑‍💻Languages & tools</h2>
 <div align="left">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/javascript/javascript-original.svg" width="32" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/nodejs/nodejs-original.svg" width="32" />
