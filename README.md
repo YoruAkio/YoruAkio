@@ -10,7 +10,7 @@
     <div>
         <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
         <!-- <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right"> -->
-        <img src="https://cdn.discordapp.com/attachments/863844170666213386/885460586874417152/joged.gif" align="right">
+        <img src="https://cdn.discordapp.com/attachments/863844170666213386/885460586874417152/joged.gif" align="center">
         <li>
             <b>Name:</b> <a href='https://yoruakio.me' target=_blank>Akio</a></li>
         <li>
@@ -29,7 +29,7 @@
         <h2 align="center">             📇 ~ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 ~📇</h2>
         <br>
         <p>
-        <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+        <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="center">
         <br><br><br>
     </div>
     <br>
@@ -44,7 +44,7 @@
         </p>
         <br>
         <h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
-        <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+        <img src="https://i.imgur.com/KXx0cCx.gif" align="center" width="373.5px" height="208.5px">
         <br>
         <p align="center">Hewe awe some of my <br>
         most used s-s-sociaw things >_ xoxox</p>
