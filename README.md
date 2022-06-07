@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Krypton!</h1>
+<h1 align="center">👋 Hey, I'm YoruAkio!</h1>
 
 <div align="center">
   <a href="https://yoruakio.me">
