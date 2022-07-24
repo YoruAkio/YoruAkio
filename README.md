@@ -1,11 +1,7 @@
 <h1 align="center">👋 Hey, I'm YoruAkio!</h1>
 
 <div align="center">
-  <a href="https://yoruakio.me">
-            <img src="https://lanyard.cnrad.dev/api/919841186246692886?idleMessage=Cause,%20baby,%20tonight%20we're%20beautiful%20now&animated=true&theme=dark&borderRadius=20&hideBadges=true&hideDiscrim=true&bg=212121"  />
-  </a>
-  
-  <img src="https://spotify-status-livid.vercel.app/api/run-spotify-status" alt="Your alt what" width="350" />
+  <img src="https://spotify.yoruakio.me/api?theme=dark&scan=true&rainbow=true&spin=true" alt="https://yoruakio.me" width="350" />
 </div>
 
 <p align="center">Hewwo, I am YoruAkio <i>(student developer from indonesia)</i> or CevX3Z, which is mostly used for social media usernames. I'm a small developer and im anime lover. I like computers, programming and anything related to anime.<br><br><strong>I 💜 Anime</strong></p>
