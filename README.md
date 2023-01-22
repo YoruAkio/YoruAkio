@@ -2,6 +2,7 @@
 
 <div align="center">
   <img src="https://spotify.akio-dev.ml/api?theme=dark&scan=true&rainbow=true" href="https://akio-dev.ml" alt="https://akio-dev.ml" width="500" />
+  < /br>
   <img src="https://lanyard-profile-readme.vercel.app/api/919841186246692886?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." href="https://akio-dev.ml" alt="https://akio-dev.ml" width="500" />
 </div>
 
