@@ -13,7 +13,7 @@
     Hewwo, I am YoruAkio <i>(student developer from indonesia)</i> or CevX3Z,
     which is mostly used for social media usernames. I'm a small developer and
     im anime lover. I like computers, programming and anything related to
-    anime.<br /><br /><strong>I 💜 Anime</strong>
+    anime.
 </p>
 
 <hr />
