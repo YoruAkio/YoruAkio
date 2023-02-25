@@ -18,15 +18,10 @@
 
 <hr />
 
-<p align="center">
-    <a href="https://go.yoruakio.me/discord">Discord</a> •
-    <a href="https://yoruakio.me">Website</a>
-</p>
-
-<hr />
-
 <h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
+
 <br />
+
 <p align="center">
     <a href="https://skillicons.dev">
         <img
