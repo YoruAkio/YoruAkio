@@ -21,7 +21,7 @@
 <h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
 
 <p align="center">
-    <a href="https://skillicons.dev">
+    <a href="https://airi.dev">
         <img
             src="https://skillicons.dev/icons?i=js,ts,html,css,python,nodejs,react,express,electron,nextjs"
         /><br />
@@ -34,7 +34,7 @@
 <hr />
 
 • 💭 Ask me things about anything and I will try to answer.
-• 📇 Contact me: [YoruAkio#9999](https://go.yoruakio.me/discord) on Discord, [@YoruAkio](https://go.yoruakio.me/twitter) on Twitter or [Email](https://go.yoruakio.me/mail).
+• 📇 Contact me: [YoruAkio#9999](https://go.yoruakio.me/discord) on Discord, [@YoruAkio](https://go.yoruakio.me/twitter) on Twitter.
 • 😺💜 Fun facts: My favorite animal is a cat and my favorite color is [#9C84EF](https://color-hex.com/color/9c84ef).
 
 <hr />
