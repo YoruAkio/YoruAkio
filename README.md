@@ -17,7 +17,7 @@
 - 🌱 I'm currently learning JS, Rust, and c.
 - 💬 I might not be able to use English correctly.
 - 📫 How to reach me: **Discord: YoruAkio#XXXX**
-- ⚡ Fun fact: **Dark chocolate is delicious.**
+- ⚡ Fun fact: **My cat cute AF.**
 
 ```javascript
 let process = 'working';
