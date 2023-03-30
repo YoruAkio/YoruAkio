@@ -43,7 +43,7 @@
   <a href="https://twitter.com/YoruAkio">
     <img alt="Maseshi Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <p>I live in Thailand, I love programming and development.</p>
+  <p>I live in Indonesia, I love programming and cat.</p>
   <img alt="Maseshi streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=YoruAkio" />
 </div>
 
