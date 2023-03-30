@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi! I'm Airi</h1>
+  <h1>Hi! I'm Akio</h1>
   <a href="https://github.com/yoruakio">
     <img alt="Maseshi GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
