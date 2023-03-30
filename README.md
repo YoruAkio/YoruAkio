@@ -53,8 +53,8 @@ A good workspace is half the battle won. Even if it's not very good, it's enough
   <tr>
     <td>C40-A</td>
     <td>Manjaro Linux (AwesomeWM)</td>
-    <td>INTEL Celeron 1005M</td>
-    <td>Intel HD 4000</td>
+    <td>Intel Celeron 1005M</td>
+    <td>Intel HD Graphics</td>
     <td>240 GB</td>
     <td>2 GB</td>
   </tr>
