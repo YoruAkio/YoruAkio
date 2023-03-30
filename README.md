@@ -1,38 +1,4 @@
-<!-- <h1 align="center">👋 Hey, I'm YoruAkio!</h1>
-
 <div align="center">
-    <img
-        src="https://lanyard-profile-readme.vercel.app/api/919841186246692886?theme=dark&bg=161b22&animated=false&hideDiscrim=true&borderRadius=5px&idleMessage=Probably%20doing%20something%20else..."
-        href="https://akio-dev.ml"
-        alt="https://akio-dev.ml"
-        width="500"
-    />
-</div>
-
-<p align="center">
-    Hewwo, I am YoruAkio <i>(student developer from indonesia)</i> or CevX3Z,
-    which is mostly used for social media usernames. I'm a small developer and
-    im anime lover. I like computers, programming and anything related to
-    anime.
-</p>
-
-<hr />
-
-<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
-
-<p align="center">
-    <a href="https://airi.dev">
-        <img
-            src="https://skillicons.dev/icons?i=js,ts,html,css,python,nodejs,react,express,electron,nextjs"
-        /><br />
-        <img
-            src="https://skillicons.dev/icons?i=git,vscode,github,discord,blender,ai,ps,ae,pr"
-        />
-    </a>
-</p>
- -->
- 
- <div align="center">
   <h1>Hi! I'm Airi</h1>
   <a href="https://github.com/yoruakio">
     <img alt="Maseshi GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -48,7 +14,7 @@
 </div>
 
 - 🪙 Little by little donation, life will be bright, [Buy me a coffee](https://www.buymeacoffee.com/airidev).
-- 🌱 I'm currently learning JS, Rust, and c.\
+- 🌱 I'm currently learning JS, Rust, and c.
 - 💬 I might not be able to use English correctly.
 - 📫 How to reach me: **Discord: YoruAkio#XXXX**
 - ⚡ Fun fact: **Dark chocolate is delicious.**
