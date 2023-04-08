@@ -59,14 +59,3 @@ A good workspace is half the battle won. Even if it's not very good, it's enough
     <td>2 GB</td>
   </tr>
 </table>
-
-</br>
-<a href="https://airi.dev">
-        <img
-            src="https://skillicons.dev/icons?i=js,ts,html,css,python,nodejs,react,express,electron,nextjs"
-        /><br />
-        <img
-            src="https://skillicons.dev/icons?i=git,vscode,github,discord,blender,ai,ps,ae,pr"
-        />
-    </a>
-</div>
