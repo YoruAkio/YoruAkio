@@ -14,9 +14,9 @@
 </div>
 
 - 🪙 Little by little donation, life will be bright, [Buy me a coffee](https://www.buymeacoffee.com/airidev).
-- 🌱 I'm currently learning JS, Rust, and c.
+- 🌱 I'm currently learning JS, TS, and c++.
 - 💬 I might not be able to use English correctly.
-- 📫 How to reach me: **Discord: Akio#2828**
+- 📫 How to reach me: **Discord: yoruakio**
 - ⚡ Fun fact: **My cat cute AF.**
 
 ```javascript
