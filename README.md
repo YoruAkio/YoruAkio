@@ -3,7 +3,7 @@
   <a href="https://github.com/yoruakio">
     <img alt="Maseshi GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/ayk.llvm">
+  <a href="https://www.instagram.com/eroboyyy">
     <img alt="Maseshi Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://twitter.com/YoruAkio">
