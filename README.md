@@ -1,16 +1,16 @@
 <div align="center">
   <h1>Hi! I'm Akio</h1>
   <a href="https://github.com/yoruakio">
-    <img alt="Maseshi GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img alt="YoruAkio GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/eroboyyy">
-    <img alt="Maseshi Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img alt="YoruAkio Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://twitter.com/YoruAkio">
-    <img alt="Maseshi Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img alt="YoruAkio Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <p>I live in Indonesia, I love programming and cat.</p>
-  <img alt="Maseshi streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=YoruAkio" />
+  <img alt="YoruAkio streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=YoruAkio" />
 </div>
 
 - 🪙 Little by little donation, life will be bright, [Buy me a coffee](https://www.buymeacoffee.com/airidev).
