@@ -2,12 +2,6 @@
   <h1>Hello, World! I'm Akio</h1>
   <p>I'm a programmer from Indonesia who loves cats and code. Here's where I share my journey.</p>
   
-  <a href="https://github.com/yoruakio">
-    <img alt="YoruAkio GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/eroboyyy">
-    <img alt="YoruAkio Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
   <a href="https://twitter.com/YoruAkio">
     <img alt="YoruAkio Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
