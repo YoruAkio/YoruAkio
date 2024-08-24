@@ -14,15 +14,3 @@
 -   ⚡ Fun fact: My cat is the cutest!
 
 I work on a Toshiba Laptop running Arco Linux (Hyprland). It's not the most powerful machine, but it gets the job done.
-
-```javascript
-let process = 'working';
-let error = false;
-
-if (process === 'not working') error = false;
-if (process === 'working') error = true;
-
-console.log(error);
-// => true
-// It work with error
-```
