@@ -1,16 +1,27 @@
 <div align="center">
-  <h1>Hello, World! I'm Akio</h1>
-  <a href="https://twitter.com/YoruAkio">
-    <img alt="YoruAkio Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <p>I'm a programmer from Indonesia who loves cats and code. Here's where I share my journey.</p>
+  <h1>Hewwo, I'm Yoru Akio</h1>
+
+  <img style="margin: 30px;" width=30% src="https://lanyard-profile-readme.vercel.app/api/919841186246692886?theme=dark&bg=150c1c&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Teaching%20cats%20to%code%20one%20hairball%20at%20a%20time..." alt="Lanyard Profile" />
   
-  <img alt="YoruAkio streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=YoruAkio" />
+  </br>
+  
+  <a href="https://twitter.com/YoruAkio">
+    <img alt="YoruAkio Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/919841186246692886">
+    <img alt="YoruAkio Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://ko-fi.com/yoruakio">
+    <img alt="YoruAkio Discord" src="https://img.shields.io/badge/Kofi-ff5f5f?style=for-the-badge&logo=kofi&logoColor=white" />
+  </a>
+  <p>A student developer from Indonesia, fueled by matcha lattes and cat cuddles. ☕🐱</p>
 </div>
 
--   🌱 I'm currently learning JS, TS, Golang, and C++.
--   💬 English isn't my first language, so please excuse any mistakes.
--   📫 Reach me on Discord: yoruakio
--   ⚡ Fun fact: My cat is the cutest!
+- 🌱 My current usage: Arco Linux with Hyprland | JS, TS, Golang and C++
+- 💬 English isn't my first language, so please excuse any mistakes.
+- 📫 Wanna chat? Meow me at Discord: @yoruakio
+- ⚡ Fun fact: I once tried to teach my cat to code. It didn't go well. 😂
 
-I work on a Toshiba Laptop running Arco Linux (Hyprland). It's not the most powerful machine, but it gets the job done.
+<div align="center">
+  <img alt="YoruAkio streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=YoruAkio" />
+</div>
