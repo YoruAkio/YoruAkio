@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hewwo, I'm Yoru Akio</h1>
 
-  <img style="margin: 30px;" width=30% src="https://lanyard-profile-readme.vercel.app/api/919841186246692886?theme=dark&bg=150c1c&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Teaching%20cats%20to%code%20one%20hairball%20at%20a%20time..." alt="Lanyard Profile" />
+  <img style="margin: 30px;" width=40% src="https://lanyard-profile-readme.vercel.app/api/919841186246692886?theme=dark&bg=18121f&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Teaching%20cats%20to%code%20one%20hairball%20at%20a%20time..." alt="Lanyard Profile" />
   
   </br>
   
