@@ -19,7 +19,7 @@
 
 - 🌱 My current usage: Arco Linux with Hyprland | JS, TS, Golang and C++
 - 💬 English isn't my first language, so please excuse any mistakes.
-- 📫 Wanna chat? Meow me at Discord: @yoruakio
+- 📫 Wanna chat? Meow me at Discord: [@yoruakio](https://discord.com/users/919841186246692886)
 - ⚡ Fun fact: I once tried to teach my cat to code. It didn't go well. 😂
 
 <div align="center">
