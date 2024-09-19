@@ -23,6 +23,5 @@
 - 📫 Wanna chat? Meow me at Discord: [@yoruakio](https://discord.com/users/919841186246692886)
 - ⚡ Fun fact: I once tried to teach my cat to code. It didn't go well. 😂
 
-<div align="center">
-  <img alt="YoruAkio streak stats" width=40% src="https://github-readme-streak-stats.herokuapp.com/?user=YoruAkio" />
-</div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
