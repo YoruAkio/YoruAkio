@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style=>
   <img width=40% src="yoruakio.png" alt="Lanyard Profile" />
   
   <a href="https://twitter.com/YoruAkio">
@@ -20,4 +20,8 @@
 
 <div align="center">
   <img alt="YoruAkio streak stats" width=40% src="https://github-readme-streak-stats.herokuapp.com/?user=YoruAkio" />
+  <br>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=YoruAkio&label=Profile%20Views&color=6&icon=0&pretty=false" />
+  </a>
 </div>
