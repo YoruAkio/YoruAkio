@@ -102,7 +102,7 @@ const yoruAkio = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoruAkio&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="YoruAkio's Top Languages" width="58%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoruAkio&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="YoruAkio's Top Languages" width="40%" />
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coin.png" alt="Coin" width="25" height="25" /> Support My Work
