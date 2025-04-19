@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="180" src="yoruakio.png" alt="YoruAkio Logo" style="border-radius: 50%; border: 3px solid #61dafb;" />
+  <img width="180" src="yoruakio.png" alt="YoruAkio Logo" />
   
   # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi, I'm YoruAkio
   
@@ -25,7 +25,7 @@
   <img src="https://komarev.com/ghpvc/?username=YoruAkio&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> About Me
 
 ```typescript
 const yoruAkio = {
