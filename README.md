@@ -93,7 +93,7 @@ const yoruAkio = {
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YoruAkio&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="YoruAkio's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YoruAkio&theme=tokyonight&column=3&margin-w=15&margin-h=15" alt="YoruAkio's Trophies" />
 </div>
 
 <div align="center">
