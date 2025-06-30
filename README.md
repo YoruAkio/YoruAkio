@@ -53,16 +53,16 @@ const yoruAkio = {
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 113 hrs 10 mins
+Total Time: 114 hrs 19 mins
 
-JavaScript                         68 hrs 21 mins  █████████████▒░░░░░░░░░░░   53.61 %
-Other                              14 hrs 19 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 %
-JSON                               7 hrs 5 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
-TypeScript                         6 hrs 30 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
-Bash                               4 hrs 11 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
-Go                                 3 hrs 51 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-Text                               2 hrs 35 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-C++                                2 hrs 31 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+JavaScript                         68 hrs 21 mins  █████████████▒░░░░░░░░░░░   53.10 %
+Other                              14 hrs 25 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
+JSON                               7 hrs 5 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+TypeScript                         6 hrs 30 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+Bash                               4 hrs 48 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+Go                                 3 hrs 51 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Text                               2 hrs 35 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+C++                                2 hrs 31 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
 ```
 
 <!--END_SECTION:waka-->
