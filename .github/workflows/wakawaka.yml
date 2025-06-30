@@ -19,3 +19,6 @@ jobs:
           LANG_COUNT: 10
           TIME_RANGE: all_time
           BLOCKS: ░▒▓█
+          IGNORED_LANGUAGES: TEXT EJS CSS
+          # commits
+          COMMIT_MESSAGE: 'feat(workflow): update Waka readme!'
