@@ -56,6 +56,22 @@ const yoruAkio = {
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Wakatime Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 113 hrs 10 mins
+
+JavaScript                         68 hrs 21 mins  █████████████▒░░░░░░░░░░░   53.61 %
+Other                              14 hrs 19 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 %
+JSON                               7 hrs 5 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+TypeScript                         6 hrs 30 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+Bash                               4 hrs 11 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+Go                                 3 hrs 51 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+CSS                                2 hrs 55 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+EJS                                2 hrs 43 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Text                               2 hrs 35 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+C++                                2 hrs 31 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+```
+
 <!--END_SECTION:waka-->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coin.png" alt="Coin" width="25" height="25" /> Support My Work
