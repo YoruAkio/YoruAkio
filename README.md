@@ -42,10 +42,6 @@ const yoruAkio = {
 };
 ```
 
-- 📫 Reach me on Discord: [@yoruakio](https://discord.com/users/919841186246692886)
-- 💬 English isn't my first language, but I'm always improving!
-- 🌱 Open to collaborating on interesting projects
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> Tech Stack
 
 <div align="center">
