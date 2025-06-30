@@ -36,9 +36,8 @@
 const yoruAkio = {
   location: 'Indonesia',
   currentFocus: ['Web Development', 'Backend Systems', 'Game Automation'],
-  workingOn: ['GrowtopiaLogin-Backend', 'TerraBot', 'Web Applications'],
-  learning: ['Next.js', 'TypeScript', 'Golang', 'C++'],
-  environment: 'Arco Linux with Hyprland',
+  learning: ['Javascript', 'TypeScript', 'Golang', 'C++', 'Python'],
+  environment: 'macOS | Linux | Windows',
   funFact: "I once tried to teach my cat to code. It didn't go well. 😂",
 };
 ```
