@@ -19,6 +19,6 @@ jobs:
           LANG_COUNT: 8
           TIME_RANGE: all_time
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          IGNORED_LANGUAGES: TEXT EJS CSS OTHER BASH MARKDOWN
+          IGNORED_LANGUAGES: TEXT EJS CSS Other Bash Markdown JSON
           # commits
           COMMIT_MESSAGE: 'feat(workflow): update Waka readme!'
