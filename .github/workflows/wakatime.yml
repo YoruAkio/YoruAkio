@@ -1,10 +1,8 @@
 name: Waka Readme
 
 on:
-  # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs every 12 hours
     - cron: '0 */12 * * *'
 
 jobs:
@@ -12,13 +10,13 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master # this action name
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TOTAL: true
           LANG_COUNT: 8
           TIME_RANGE: all_time
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          BLOCKS: ░▒▓█
           IGNORED_LANGUAGES: TEXT EJS CSS Other Bash Markdown JSON
           # commits
           COMMIT_MESSAGE: 'feat(workflow): update Waka readme!'
