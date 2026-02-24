@@ -57,6 +57,9 @@ Rust                               11 hrs 45 mins        ⣦⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
+<!--START_SECTION:waka-weekly-->
+<!--END_SECTION:waka-weekly-->
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coin.png" alt="Coin" width="25" height="25" /> Support My Work
 
 <div align="center">
