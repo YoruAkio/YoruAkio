@@ -32,20 +32,13 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> About Me
 
-```typescript
-const yoruAkio = {
-  location: 'Indonesia',
-  currentFocus: ['Web Development', 'Backend Systems', 'Game Automation'],
-  learning: ['Javascript', 'TypeScript', 'Golang', 'C++', 'Python'],
-  environment: 'macOS | Linux | Windows',
-  funFact: "I once tried to teach my cat to code. It didn't go well. 😂",
-};
-```
+I'm a self-taught developer from Indonesia on a 4+ year coding journey. I started in 2021 with C++, where I built my fundamentals in programming and problem-solving, then moved into web development in 2023 and found a real passion for building interactive experiences. These days I work with Next.js and TypeScript on the frontend, while also exploring Go and Node.js for backend development. I love turning ideas into real products and constantly learning along the way.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,go,cpp,react,nextjs,nodejs,mongodb,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,go,cpp,rust,py,bun,mongodb,react,postgres,apple,linux&theme=dark" />
+</div>
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Wakatime Stats

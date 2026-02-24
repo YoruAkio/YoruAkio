@@ -4,8 +4,8 @@ on:
   # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs every 6 hours
-    - cron: '0 */6 * * *'
+    # runs every 12 hours
+    - cron: '0 */12 * * *'
 
 jobs:
   update-readme:
@@ -16,9 +16,9 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TOTAL: true
-          LANG_COUNT: 10
+          LANG_COUNT: 8
           TIME_RANGE: all_time
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          IGNORED_LANGUAGES: TEXT EJS CSS
+          IGNORED_LANGUAGES: TEXT EJS CSS OTHER BASH MARKDOWN
           # commits
           COMMIT_MESSAGE: 'feat(workflow): update Waka readme!'
