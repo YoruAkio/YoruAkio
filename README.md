@@ -46,9 +46,9 @@ I'm a self-taught developer from Indonesia on a 4+ year coding journey. I starte
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 727 hrs 6 mins
+Total Time: 727 hrs 20 mins
 
-JavaScript                         256 hrs 56 mins       ████████▒░░░░░░░░░░░░░░░░   33.92 %
+JavaScript                         256 hrs 56 mins       ████████▒░░░░░░░░░░░░░░░░   33.91 %
 TypeScript                         155 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   20.55 %
 C++                                55 hrs 17 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
 Python                             49 hrs 57 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
