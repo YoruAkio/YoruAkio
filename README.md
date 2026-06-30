@@ -48,8 +48,8 @@ I'm a self-taught developer from Indonesia on a 4+ year coding journey. I starte
 ```txt
 Total Time: 1,064 hrs 52 mins
 
-TypeScript                         401 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   36.19 %
-JavaScript                         260 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   23.50 %
+TypeScript                         401 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   36.18 %
+JavaScript                         260 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   23.49 %
 C++                                60 hrs 15 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
 Python                             50 hrs 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
 Swift                              22 hrs 18 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
