@@ -64,37 +64,37 @@ Swift                              22 hrs 18 mins        ▒░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 55 mins       █████████████░░░░░░░░░░░░   50.73 % 
-JSON                     49 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Markdown                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-JavaScript               26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-Git Config               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+TypeScript               2 hrs 55 mins       ███████████░░░░░░░░░░░░░░   45.56 % 
+JSON                     49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Markdown                 34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+Other                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+JavaScript               26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
 
 💻 Operating System: 
-Linux                    4 hrs 16 mins       ███████████████████░░░░░░   74.45 % 
-Mac                      1 hr 28 mins        ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
+Linux                    4 hrs 16 mins       █████████████████░░░░░░░░   66.87 % 
+Mac                      2 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   33.13 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 13 mins (90.93%)
+⏱ AI Coding Time: 5 hrs 52 mins (91.84%)
 
-✍️ 1,566 lines written by AI, 14 lines written by hand (99.11% AI-written)
+✍️ 1,632 lines written by AI, 14 lines written by hand (99.15% AI-written)
 
-🔤 40,293,826 Input Tokens, 172,840 Output Tokens
+🔤 43,985,426 Input Tokens, 193,463 Output Tokens
 
-💵 $206.65 Estimated AI Cost This Week
+💵 $225.73 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 46 AI Prompts
+🧠 16 AI Sessions, 53 AI Prompts
 
-GPT                      1,742 lines         █████████████████████████   100.00 % 
+GPT                      1,821 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.11% of written lines came from AI
-📝 Concise Prompter — average 183 characters per prompt
+🤖 AI-Driven — 99.15% of written lines came from AI
+📝 Concise Prompter — average 281 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.3% of changed lines were hand-edited
+🚀 High AI Trust — 1.25% of changed lines were hand-edited
 ```
 
 
