@@ -64,23 +64,23 @@ Swift                              23 hrs 57 mins        ▓░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               41 mins             ███████░░░░░░░░░░░░░░░░░░   28.21 % 
-Other                    34 mins             ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
-Kotlin                   27 mins             █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
-JSON                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-XML                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Kotlin                   27 mins             ██████████░░░░░░░░░░░░░░░   39.22 % 
+TypeScript               13 mins             █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+Other                    12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+XML                      9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Git Config               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
 
 💻 Operating System: 
-Mac                      1 hr 41 mins        █████████████████░░░░░░░░   69.42 % 
-Linux                    44 mins             ████████░░░░░░░░░░░░░░░░░   30.58 % 
+Linux                    44 mins             ████████████████░░░░░░░░░   63.71 % 
+Mac                      25 mins             █████████░░░░░░░░░░░░░░░░   36.29 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 mins (7.98%)
+⏱ AI Coding Time: 11 mins (16.62%)
 
-✍️ 0 lines written by AI, 139 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 38 lines written by hand (0.0% AI-written)
 
 🔤 71,535 Input Tokens, 28,204 Output Tokens
 
