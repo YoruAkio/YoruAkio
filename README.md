@@ -58,8 +58,6 @@ Swift                              23 hrs 57 mins        ▓░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-weekly-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-459%20hrs%2011%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -73,30 +71,6 @@ Lua                      22 mins             █░░░░░░░░░░�
 💻 Operating System: 
 Linux                    14 hrs 15 mins      █████████████████████████   98.50 % 
 Mac                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 13 hrs 8 mins (90.74%)
-
-✍️ 7,555 lines written by AI, 6 lines written by hand (99.92% AI-written)
-
-🔤 4,146,363 Input Tokens, 485,354 Output Tokens
-
-💵 $51.85 Estimated AI Cost This Week
-
-🧠 17 AI Sessions, 246 AI Prompts
-
-GPT                      8,189 lines         █████████████████████████   100.00 % 
-Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.92% of written lines came from AI
-📄 Detailed Prompter — average 853 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 1.11% of changed lines were hand-edited
 ```
 
 
