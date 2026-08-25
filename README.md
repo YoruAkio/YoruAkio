@@ -62,14 +62,14 @@ Swift                              24 hrs 7 mins         ▒░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   29.94 % 
-QML                      2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-Kotlin                   2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-Markdown                 1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-C++                      1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+TypeScript               13 hrs 36 mins      ███████████░░░░░░░░░░░░░░   44.61 % 
+QML                      2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Markdown                 2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+Kotlin                   2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Other                    1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
 
 💻 Operating System: 
-Linux                    23 hrs 48 mins      █████████████████████████   100.00 % 
+Linux                    30 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 
