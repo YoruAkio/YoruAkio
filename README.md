@@ -62,10 +62,10 @@ Swift                              24 hrs 40 mins        ▒░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
