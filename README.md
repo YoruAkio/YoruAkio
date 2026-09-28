@@ -62,10 +62,14 @@ Swift                              24 hrs 40 mins        ▒░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 23 mins       █████████████████░░░░░░░░   69.80 % 
+Bash                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Text                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Swift                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 
