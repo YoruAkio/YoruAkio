@@ -62,12 +62,10 @@ Swift                              24 hrs 46 mins        ▒░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 24 mins       ████████████████████████░   97.65 % 
-Rust                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 27 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
