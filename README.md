@@ -62,14 +62,10 @@ Swift                              24 hrs 46 mins        ▒░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 35 mins        ████████████████░░░░░░░░░   65.83 % 
-Rust                     41 mins             ███████░░░░░░░░░░░░░░░░░░   28.80 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 25 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
