@@ -62,11 +62,11 @@ Swift                              24 hrs 46 mins        ▒░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   31.86 % 
-Other                    1 hr 50 mins        ███████░░░░░░░░░░░░░░░░░░   26.16 % 
-JavaScript               1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-Go                       58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Markdown                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+JavaScript               3 hrs 11 mins       ███████████░░░░░░░░░░░░░░   45.05 % 
+Other                    1 hr 53 mins        ███████░░░░░░░░░░░░░░░░░░   26.85 % 
+TypeScript               1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
+Go                       12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 💻 Operating System: 
 Linux                    7 hrs 4 mins        █████████████████████████   100.00 % 
