@@ -62,14 +62,10 @@ Swift                              24 hrs 46 mins        ▒░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 26 mins             █████████████░░░░░░░░░░░░   53.76 % 
-JSON                     13 mins             ███████░░░░░░░░░░░░░░░░░░   26.68 % 
-Go                       7 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-Dart                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Other                    0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    50 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
